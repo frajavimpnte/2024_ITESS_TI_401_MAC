@@ -2,7 +2,7 @@
 %%   Enero-Junio 2024
 %%   Matemáticas Áplicadas a Comunicaciones
 %%   Unidad 3: Series de Fouier
-%%   Integral de Fourier
+%%   Integral compleja de Fourier
 %%   16/mayo/2024
 %%   FJMP
 
@@ -66,5 +66,4 @@ plot(x, fx_3)
 plot(x, fx_4)
 plot(x, fx_5)
 plot(x, fx_6)
-
 
